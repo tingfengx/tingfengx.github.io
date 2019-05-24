@@ -5,9 +5,9 @@ layout: default
 # Tingfeng Xia | Personal Site 
 
 ## About me
-I am currently a Computer Science Specialist (cGPA 3.9/4.0) at University of Toronto (UTSG). 
-### What I'm up to recently
-Working as group, developing a software that takes an remote senseing image as input and outputs water quality indexes with focus on the detection of blue—green algae for the Taihu Lake
+I am currently a Computer Science Specialist student(cGPA 3.9/4.0) at University of Toronto (UTSG). 
+### What I'm up to recently...
+Working as group, developing a software that takes an remote senseing image as input and outputs water quality indexes with focus on the detection of blue—green algae for the Taihu Lake.  
 <br/>
 [Click me for CV](/assets/CV.md)
 
@@ -16,7 +16,7 @@ Working as group, developing a software that takes an remote senseing image as i
 [Linkedin: https://www.linkedin.com/in/tingfeng-xia-4b437214a](https://www.linkedin.com/in/tingfeng-xia-4b437214a)  
 [Email me: tingfeng.xia@outlook.com](mailto:tingfeng.xia@outlook.com)  
 [Tel: (+1)6479378573](tel:(+1)6479378573)  
-WeChat: 15295621325
+[WeChat: 15295621325](tel:(+86)15295621325)
 
 ## Skills
 - Programming Languages
