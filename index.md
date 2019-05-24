@@ -6,7 +6,7 @@ layout: default
 
 ## About me
 I am currently a Computer Science Specialist (cGPA 3.9/4.0) at University of Toronto (UTSG).  
-</br >
+<br/>
 [Click me for CV](/assets/CV.md)
 
 ## Contact info
