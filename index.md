@@ -12,7 +12,7 @@ Working as group, developing a software that takes an remote senseing image as i
 [Click me for CV](/assets/CV.md)
 
 ## Contact info
-[My Github: https://www.github.com/ELO1SA](https://www.github.com/ELO1SA)  
+[My Github: https://www.github.com/tingfengx](https://www.github.com/tingfenx)  
 [Linkedin: https://www.linkedin.com/in/tingfeng-xia-4b437214a](https://www.linkedin.com/in/tingfeng-xia-4b437214a)  
 [Email me: tingfeng.xia@outlook.com](mailto:tingfeng.xia@outlook.com)  
 [Tel: (+1)6479378573](tel:(+1)6479378573)  
