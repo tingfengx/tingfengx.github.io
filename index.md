@@ -13,6 +13,7 @@ I am currently a Computer Science Specialist (cGPA 3.9/4.0) at University of Tor
 [My Github: https://www.github.com/ELO1SA](https://www.github.com/ELO1SA)  
 [Linkedin: https://www.linkedin.com/in/tingfeng-xia-4b437214a](https://www.linkedin.com/in/tingfeng-xia-4b437214a)  
 [Email me: tingfeng.xia@outlook.com](mailto:tingfeng.xia@outlook.com)
+WeChat/Tel: (+86)15295621325
 
 ## Skills
 - Programming Languages
