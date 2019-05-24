@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# I'm Tingfeng Xia, welcome to my site! 
+# Tingfeng Xia | Personal Site 
 
 ## About me
 I am currently a Computer Science Specialist (cGPA 3.9/4.0) at University of Toronto (UTSG).
