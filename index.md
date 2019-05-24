@@ -5,7 +5,8 @@ layout: default
 # Tingfeng Xia | Personal Site 
 
 ## About me
-I am currently a Computer Science Specialist (cGPA 3.9/4.0) at University of Toronto (UTSG).
+I am currently a Computer Science Specialist (cGPA 3.9/4.0) at University of Toronto (UTSG).  
+[Click me for CV](/assets/CV.md)
 
 ## Contact info
 [My Github: https://www.github.com/ELO1SA](https://www.github.com/ELO1SA)  
