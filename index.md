@@ -9,8 +9,8 @@ I am currently a Computer Science Specialist (cGPA 3.9/4.0) at University of Tor
 
 ## Contact info
 [My Github: https://www.github.com/ELO1SA](https://www.github.com/ELO1SA)  
-[Linkedin](https://www.linkedin.com/in/tingfeng-xia-4b437214a)  
-[Email me: tingfeng.xia@outlook.com](mailto:tingfeng.xia@outlook.com)  
+[Linkedin: https://www.linkedin.com/in/tingfeng-xia-4b437214a](https://www.linkedin.com/in/tingfeng-xia-4b437214a)  
+[Email me: tingfeng(dot)xia(at)outlook(dot)com](mailto:tingfeng.xia@outlook.com) 
 
 ## Programming Skills
 - Familiar with Python, C, bash, SQL, TeX.  
