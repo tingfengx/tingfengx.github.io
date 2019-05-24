@@ -5,7 +5,9 @@ layout: default
 # Tingfeng Xia | Personal Site 
 
 ## About me
-I am currently a Computer Science Specialist (cGPA 3.9/4.0) at University of Toronto (UTSG).  
+I am currently a Computer Science Specialist (cGPA 3.9/4.0) at University of Toronto (UTSG). 
+### What I'm up to recently
+Working as group, developing a software that takes an remote senseing image as input and outputs water quality indexes with focus on the detection of blue—green algae for the Taihu Lake
 <br/>
 [Click me for CV](/assets/CV.md)
 
