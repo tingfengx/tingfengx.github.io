@@ -25,4 +25,4 @@ Working as group, developing a software that takes an remote senseing image as i
 - Programming Skills
     - Understand design patterns in Object-Oriented Programming and principles of design (SOLID Principle, for example).
 - Algorithms
-    - Know typical useages and implementations of common data structures, graph and their related algorithms.
+    - Know typical useages, run-times for operatiopns and implementations of common data structures, graphs and their related algorithms.
