@@ -8,7 +8,7 @@
 
 ## Skills
 - Programming Languages
-    - Proficient with Python, C, bash, TeX.  
+    - Proficient with Python, C, bash.  
     - Familiar with Java, R. 
     - Know about HTML, SQL.
 - Programming Skills
@@ -16,7 +16,7 @@
 - Algorithms
     - Know typical useages, run-times for operatiopns and implementations of common data structures, graphs and their related algorithms.
 - Others
-    - Proficient with Microsoft Office
+    - Proficient with Microsoft Office, LaTeX.
 
 
 ## Experience
