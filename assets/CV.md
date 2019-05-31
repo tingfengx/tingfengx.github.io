@@ -12,7 +12,7 @@
     - Familiar with Java, R. 
     - Know about HTML, SQL, JavaScript, CSS.
 - Programming Skills
-    - Understand Object-Oriented Programming as well as design patterns in them and principles of design (SOLID Principle, for example).
+    - Understand Object-Oriented Programming as well as design patterns in it and principles of design (SOLID Principle, for example).
 - Algorithms
     - Know typical useages, run-times for operatiopns and implementations of common data structures, graphs and their related algorithms.
 - Others
