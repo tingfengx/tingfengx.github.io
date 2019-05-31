@@ -10,13 +10,14 @@
 - Programming Languages
     - Proficient with Python, C, bash.  
     - Familiar with Java, R. 
-    - Know about HTML, SQL.
+    - Know about HTML, SQL, JavaScript, CSS.
 - Programming Skills
-    - Understand design patterns in Object-Oriented Programming and principles of design (SOLID Principle, for example).
+    - Understand Object-Oriented Programming as well as design patterns in them and principles of design (SOLID Principle, for example).
 - Algorithms
     - Know typical useages, run-times for operatiopns and implementations of common data structures, graphs and their related algorithms.
 - Others
-    - Proficient with Microsoft Office, LaTeX.
+    - General: Proficient with Microsoft Office, LaTeX.
+    - Video Editing: Familiar with Corel Video Studio, Adobe Premiere and know about Final Cut Pro X.
 
 
 ## Experience
