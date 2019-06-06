@@ -12,8 +12,8 @@
     - Familiar with Java, R. 
     - Know about HTML, SQL, JavaScript, CSS.
 - Programming Skills
-    - Understand Object-Oriented Programming as well as design patterns in it and principles of design (SOLID Principle, for example).
-    - Have experience in working with processes.
+    - Object Oriented Programming: Understand Object-Oriented Programming as well as design patterns in it and principles of design (SOLID Principle, for example).
+    - Web Database Back-end (Using Java): Have experience in using Spring Boot, MyBatis, etc.
 - Algorithms
     - Know typical useages, run-times for operatiopns and implementations of common data structures, graphs and their related algorithms.
 - Others
