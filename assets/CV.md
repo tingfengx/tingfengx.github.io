@@ -8,9 +8,9 @@
 
 ## Skills
 - Programming Languages
-    - Proficient with Python, C, bash.  
-    - Familiar with Java, R. 
-    - Know about HTML, SQL, JavaScript, CSS.
+    - Proficient with Python, C, bash, Java.  
+    - Familiar with SQL(MySQL dialect), R. 
+    - Know about HTML, TypeScript, JavaScript, CSS.
 - Programming Skills
     - Object Oriented Programming: Understand Object-Oriented Programming as well as design patterns in it and principles of design (SOLID Principle, for example).
     - Web Database Back-end (Using Java): Have experience in using Spring Boot, MyBatis, etc.
