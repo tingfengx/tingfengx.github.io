@@ -8,7 +8,7 @@
 
 ## Skills
 - Programming Languages
-    - Proficient with Python, C, bash, Java.  
+    - Proficient with Python, C, Java, bash.  
     - Familiar with SQL(MySQL dialect), R. 
     - Know about HTML, TypeScript, JavaScript, CSS.
 - Programming Skills
