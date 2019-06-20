@@ -1,7 +1,7 @@
 # Tingfeng Xia | Curriculum Vitae (Under Construction)
 ## Education
 - 2017 - present, H.B.Sc., University of Toronto St. George Campus (UTSG), Toronto, ON, Canada
-    - Computer Science Specialist Program with Statistics Minor
+    - Computer Science Specialist Program (Focus In Artificial Intelligence) with Statistics Minor
     - cGPA 3.88/4.0 and 3.98/4.0 for program courses
 - 2014 - 2017, GCE, Suzhou Foreign Language School, Suzhou, Jiangsu, China
     - Earned 4 A's in AS-Level and 2 A-star with 1 A in A-Level
