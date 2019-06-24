@@ -25,7 +25,7 @@
 ## Experience
 - 2019.05 - present, Summer Intern, Suzhou Zhongke (Chinese Academy of Sciences) Tianqi (Image Sky) Remote Sensing Techonology Co.,Ltd, Suzhou, Jiangsu, China.
     - to be added
-- 2018.0 - 2018.0, Summer Intern (Algorithms), Suzhou Ovopark Software Technologies Co.,Ltd, Suzhou, Jiangsu, China.
+- 2018.07 - 2018.08, Summer Intern (Algorithms), Suzhou Ovopark Software Technologies Co.,Ltd, Suzhou, Jiangsu, China.
     - to be added
-- 2017.0 - 2017.0, CIE (Cambridge International Examinations) Mathematics Lecturer, Suzhou Global Education, Suzhou, Jiangsu, China.
+- 2017.06 - 2017.07, CIE (Cambridge International Examinations) Mathematics Lecturer, Suzhou Global Education, Suzhou, Jiangsu, China.
     - to be added
