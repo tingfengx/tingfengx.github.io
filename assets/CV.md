@@ -9,7 +9,7 @@
 
 ## Skills
 - Programming Languages
-    - Proficient with Python, C, Java, bash.  
+    - Proficient with Python, C, Java.  
     - Familiar with SQL(MySQL dialect), R. 
     - Know about HTML, TypeScript, JavaScript, CSS.
 - Programming Skills
@@ -18,7 +18,7 @@
 - Algorithms
     - Know typical useages, run-times for operatiopns and implementations of common data structures, graphs and their related algorithms.
 - Others
-    - General: Proficient with Microsoft Office, LaTeX.
+    - General: Proficient with Microsoft Office, LaTeX. Able to use *nix operating systems and bash.
     - Video Editing: Familiar with Corel Video Studio, Adobe Premiere and know about Final Cut Pro X.
 
 
