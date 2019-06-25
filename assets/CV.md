@@ -16,7 +16,7 @@
     - Object Oriented Programming: Understand Object-Oriented Programming as well as design patterns in it and principles of design (SOLID Principle, for example).
     - Web Database Back-end (Using Java): Have experience in using Spring Boot, MyBatis, etc.
 - Algorithms
-    - Know typical useages, run-times for operatiopns and implementations of common data structures, graphs and their related algorithms.
+    - Know typical useages, complexities for operatiopns and implementations of common data structures, graphs and their related algorithms.
 - Others
     - General: Proficient with Microsoft Office, LaTeX. Able to use *nix operating systems and bash.
     - Video Editing: Familiar with Corel Video Studio, Adobe Premiere and know about Final Cut Pro X.
