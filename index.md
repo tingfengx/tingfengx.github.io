@@ -19,6 +19,5 @@ Working as group, developing a software that takes an remote senseing image as i
 
 <br/>  <br/>  
 
-### Utility web apps
-#### Currently hosting them under this github page
+### Some stuff that I made
 - [The GPA calculator](/utils/gpacalc/gpacalc.html)
