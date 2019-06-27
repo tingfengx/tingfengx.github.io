@@ -15,7 +15,7 @@
           crossorigin="anonymous">
     <script src="https://cdn.jsdelivr.net/npm/vue@2.5.16/dist/vue.js"></script>
     <style>
-        body {
+        html, body {
             /* font-family: 'Ubuntu', sans-serif; */
             font-family: 'Raleway', sans-serif;
             font-size: 16px;
@@ -36,6 +36,14 @@
         }
 
 
+        footer {
+            position: absolute;
+            left: 100px;
+            bottom: 10px;
+            height: 100px;
+            width: 100%;
+            overflow: hidden;
+        }
     </style>
 </head>
 
@@ -79,7 +87,7 @@
             </td>
         </tr>
         <tr v-show="courses.length === 0">
-            <td colspan="6">
+            <td colspan="30">
                 <p class="text-center alert-danger p-2">
                     No course added/available.
                 </p>
@@ -183,6 +191,13 @@
     });
 
 </script>
-</body>
+<div class="wrapper">
+    <div class="push"></div>
+</div>
+<footer class="footer">
+    <h3><a href="https://tingfengx.github.io"> Home </a></h3>
+    <p><a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br /></p>
+</footer>
 
+</body>
 </html>
