@@ -51,16 +51,16 @@
                 <input class="form-control" type="text" v-model="course.course_mark"/>
             </td>
             <td>
-                <input class="form-control" type="text" v-model="course.course_weight"/>
+                <input class="form-control" type="text" v-model="course.course_weight" id="weight_"/>
             </td>
             <td scope="row" class="trashIconContainer">
                 <i class="far fa-trash-alt" @click="deleteRow(k, course)"></i>
             </td>
         </tr>
         <tr v-show="courses.length === 0">
-            <td colspan="30">
+            <td colspan="6">
                 <p class="text-center alert-danger p-2">
-                    No course added/available.
+                    ====== No course added/available. ======
                 </p>
             </td>
         </tr>
