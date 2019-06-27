@@ -1,0 +1,29 @@
+html, body {
+    /* font-family: 'Ubuntu', sans-serif; */
+    font-family: 'Raleway', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    padding-left: 50px;
+    padding-top: 20px;
+}
+
+.trashIconContainer {
+    vertical-align: middle !important;
+    padding-top: 10px;
+    text-align: center;
+}
+
+
+.trashIconContainer i {
+    color: #e7670e;
+}
+
+
+footer {
+    position: absolute;
+    left: 100px;
+    bottom: 10px;
+    height: 100px;
+    width: 100%;
+    overflow: hidden;
+}

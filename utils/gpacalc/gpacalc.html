@@ -14,37 +14,7 @@
           integrity="sha384-lKuwvrZot6UHsBSfcMvOkWwlCMgc0TaWr+30HWe3a4ltaBwTZhyTEggF5tJv8tbt"
           crossorigin="anonymous">
     <script src="https://cdn.jsdelivr.net/npm/vue@2.5.16/dist/vue.js"></script>
-    <style>
-        html, body {
-            /* font-family: 'Ubuntu', sans-serif; */
-            font-family: 'Raleway', sans-serif;
-            font-size: 16px;
-            font-weight: 400;
-            padding-left: 50px;
-            padding-top: 20px;
-        }
-
-        .trashIconContainer {
-            vertical-align: middle !important;
-            padding-top: 10px;
-            text-align: center;
-        }
-
-
-        .trashIconContainer i {
-            color: #e7670e;
-        }
-
-
-        footer {
-            position: absolute;
-            left: 100px;
-            bottom: 10px;
-            height: 100px;
-            width: 100%;
-            overflow: hidden;
-        }
-    </style>
+    <link rel="stylesheet" href="main_style.css">
 </head>
 
 <body>
@@ -58,7 +28,8 @@
     <button type='button' class="btn btn-info" @click="addNewRow">
         <i class="fas fa-plus-circle"></i>
         Add Course
-    </button><br><br>
+    </button>
+    <br><br>
 
     <table>
         <thead>
@@ -110,93 +81,18 @@
 
 </div>
 
-<script>
-
-    var app = new Vue({
-        el: "#app",
-        data: {
-            // credits_earned: 0,
-            // total_gpa: 0,
-            courses: [{
-                course_code: '',
-                course_mark: 0,
-                course_weight: 1/2
-            }]
-        },
-
-        methods: {
-            addNewRow: function () {
-                this.courses.push({course_code: '', course_mark: 0, course_weight: 1/2});
-            },
-
-            deleteRow: function (index, course) {
-                let idx = this.courses.indexOf(course);
-                if (idx > -1) {
-                    this.courses.splice(idx, 1);
-                }
-            },
-
-            compute_one_gpa: function (mark) {
-                if (mark > 85) {
-                    return 4.0;
-                } else if (mark > 80) {
-                    return 3.7;
-                } else if (mark > 77) {
-                    return 3.3;
-                } else if (mark > 73) {
-                    return 3.0;
-                } else if (mark > 70) {
-                    return 2.7;
-                } else if (mark > 67) {
-                    return 2.3;
-                } else if (mark > 63) {
-                    return 2.0;
-                } else if (mark > 60) {
-                    return 1.7;
-                } else if (mark > 57) {
-                    return 1.3;
-                } else if (mark > 53) {
-                    return 1.0;
-                } else if (mark > 50) {
-                    return 0.7;
-                } else {
-                    return 0.0;
-                }
-            },
-
-            total_credit: function () {
-                let sum = 0.0;
-                for (let i = 0; i < this.courses.length; i++) {
-                    sum += parseFloat(this.courses[i].course_weight);
-                }
-                return sum;
-            }
-        },
-        computed: {
-            credits_earned: function () {
-                let sum = 0.0;
-                for (let i = 0; i < this.courses.length; i++) {
-                    sum += parseFloat(this.courses[i].course_weight);
-                }
-                return sum;
-            },
-            total_gpa: function () {
-                let sum = 0.0;
-                for (let i = 0; i < this.courses.length; i++) {
-                    sum += this.courses[i].course_weight * this.compute_one_gpa(this.courses[i].course_mark);
-                }
-                return sum / this.total_credit();
-            }
-        }
-    });
-
+<script src="main.js">
+    // script in separate file
 </script>
 <div class="wrapper">
     <div class="push"></div>
 </div>
 <footer class="footer">
     <h3><a href="https://tingfengx.github.io"> Home </a></h3>
-    <p><a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br /></p>
+    <p><a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons Licence"
+                                                                                      style="border-width:0"
+                                                                                      src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png"/></a><br/>
+    </p>
 </footer>
 
 </body>
