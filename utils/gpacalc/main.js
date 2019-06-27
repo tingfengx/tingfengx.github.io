@@ -6,13 +6,13 @@ var app = new Vue({
         courses: [{
             course_code: '',
             course_mark: 0,
-            course_weight: 1/2
+            course_weight: 1 / 2
         }]
     },
 
     methods: {
         addNewRow: function () {
-            this.courses.push({course_code: '', course_mark: 0, course_weight: 1/2});
+            this.courses.push({course_code: '', course_mark: 0, course_weight: 1 / 2});
         },
 
         deleteRow: function (index, course) {
