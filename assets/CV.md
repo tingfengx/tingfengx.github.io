@@ -8,17 +8,18 @@
     - Earned 4 A's in AS-Level and 2 A-star with 1 A in A-Level
 
 ## Skills
-- Programming Languages
+- Programming, Markup and scripting Languages
     - Proficient with Python, C, Java.  
-    - Familiar with SQL(MySQL dialect), R. 
+    - Familiar with SQL(MySQL dialect), R, bash, LaTeX. 
     - Know about HTML, TypeScript, JavaScript, CSS.
 - Programming Skills
     - Object Oriented Programming: Understand Object-Oriented Programming as well as design patterns in it and principles of design (SOLID Principle, for example).
     - Web Database Back-end (Using Java): Have experience in using Spring Boot, MyBatis, etc.
+    - Web Frond-end: Have experience in using the Vue.js framework.
 - Algorithms
     - Know typical useages, complexities for operatiopns and implementations of common data structures, graphs and their related algorithms.
-- Others
-    - General: Proficient with Microsoft Office, LaTeX. Able to use *nix operating systems and bash.
+- Other Technologies
+    - General: Proficient with typesetting in Microsoft Office, LaTeX. Able to use *nix operating systems and bash.
     - Video Editing: Familiar with Corel Video Studio, Adobe Premiere and know about Final Cut Pro X.
 
 
