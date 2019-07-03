@@ -8,7 +8,7 @@
     - Earned 4 A's in AS-Level and 2 A-star with 1 A in A-Level
 
 ## Skills
-- Programming, Markup and scripting Languages
+- Programming, Markup and Scripting Languages
     - Proficient with Python, C, Java.  
     - Familiar with SQL(MySQL dialect), R, bash, LaTeX. 
     - Know about HTML, TypeScript, JavaScript, CSS.
