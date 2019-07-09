@@ -9,7 +9,7 @@ I am currently an upcoming third year Computer Science Specialist student at Uni
 ### What I'm up to recently...
 Working as group, developing a software that takes an remote senseing image as input and outputs water quality indexes with focus on the detection of blue-green algae for the Taihu Lake.  
 <br/>
-[Click here for CV](/assets/CV.md)
+[Click here for Résumé](/assets/CV.md)
 
 ## Contact info
 [My Github: https://www.github.com/tingfengx](https://www.github.com/tingfengx)  
