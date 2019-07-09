@@ -20,4 +20,4 @@ Working as group, developing a software that takes an remote senseing image as i
 <br/>  <br/>  
 
 ### Some stuff that I made
-- [The GPA calculator](/utils/gpacalc/gpacalc.html)
+- [The GPA calculator](https://tingfengx.github.io/GPA-Calculator/)
