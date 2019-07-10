@@ -1,3 +1,11 @@
+# tingfengx.github.io
+My personal site repo, built upon the stylish-portfolio template by Start Bootstrap.
+
+<details>
+<summary>
+Click here for the original README
+</summary>
+
 # [Start Bootstrap - Stylish Portfolio](https://startbootstrap.com/template-overviews/stylish-portfolio/)
 
 [Stylish Portfolio](http://startbootstrap.com/template-overviews/stylish-portfolio/) is a responsive, one page portfolio theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). The theme features multiple content sections with an off canvas navigation menu.
@@ -66,3 +74,16 @@ Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework 
 ## Copyright and License
 
 Copyright 2013-2019 Blackrock Digital LLC. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-stylish-portfolio/blob/gh-pages/LICENSE) license.
+
+</details>
+
+``````
+ _________  ___  ________   ________  ________ _______   ________   ________     ___    ___ 
+|\___   ___\\  \|\   ___  \|\   ____\|\  _____\\  ___ \ |\   ___  \|\   ____\   |\  \  /  /|
+\|___ \  \_\ \  \ \  \\ \  \ \  \___|\ \  \__/\ \   __/|\ \  \\ \  \ \  \___|   \ \  \/  / /
+     \ \  \ \ \  \ \  \\ \  \ \  \  __\ \   __\\ \  \_|/_\ \  \\ \  \ \  \  ___  \ \    / / 
+      \ \  \ \ \  \ \  \\ \  \ \  \|\  \ \  \_| \ \  \_|\ \ \  \\ \  \ \  \|\  \  /     \/  
+       \ \__\ \ \__\ \__\\ \__\ \_______\ \__\   \ \_______\ \__\\ \__\ \_______\/  /\   \  
+        \|__|  \|__|\|__| \|__|\|_______|\|__|    \|_______|\|__| \|__|\|_______/__/ /\ __\ 
+                                                                                |__|/ \|__|          
+``````
