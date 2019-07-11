@@ -1,5 +1,5 @@
-# tingfengx.github.io
-My personal site repo, built upon the stylish-portfolio template by Start Bootstrap.
+# [tingfengx.github.io](https://tingfengx.github.io)
+My personal site repo, built upon the stylish-portfolio template by Start Bootstrap hosted using github pages.
 
 <details>
 <summary>
@@ -87,3 +87,8 @@ Copyright 2013-2019 Blackrock Digital LLC. Code released under the [MIT](https:/
         \|__|  \|__|\|__| \|__|\|_______|\|__|    \|_______|\|__| \|__|\|_______/__/ /\ __\ 
                                                                                 |__|/ \|__|          
 ``````
+## Inside this repo
+- In the [archive](https://www.github.com/tingfengx/tingfengx.github.io/archive) folder is the previous version of this website.
+- The rest of the repo is the current running version
+
+### Welcome to visit at https://tingfengx.github.io !
