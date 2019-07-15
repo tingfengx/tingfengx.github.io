@@ -11,6 +11,12 @@
 # [tingfengx.github.io](https://tingfengx.github.io)
 My personal site repo, built upon the stylish-portfolio template by Start Bootstrap hosted using github pages.
 
+## Inside this repo
+- In the [archive](https://www.github.com/tingfengx/tingfengx.github.io/archive) folder is the previous version of this website.
+- The rest of the repo is the current running version
+
+### Welcome to visit at https://tingfengx.github.io !
+
 <details>
 <summary>
 Click here for the original README
@@ -86,9 +92,3 @@ Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework 
 Copyright 2013-2019 Blackrock Digital LLC. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-stylish-portfolio/blob/gh-pages/LICENSE) license.
 
 </details>
-
-## Inside this repo
-- In the [archive](https://www.github.com/tingfengx/tingfengx.github.io/archive) folder is the previous version of this website.
-- The rest of the repo is the current running version
-
-### Welcome to visit at https://tingfengx.github.io !
