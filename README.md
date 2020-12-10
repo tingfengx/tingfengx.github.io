@@ -11,10 +11,6 @@
 # [tingfengx.github.io](https://tingfengx.github.io)
 My personal site repo, built upon the stylish-portfolio template by Start Bootstrap hosted using github pages.
 
-## Inside this repo
-- In the [archive](https://github.com/tingfengx/tingfengx.github.io/tree/master/archive) folder is the previous version of this website.
-- The rest of the repo is the current running version
-
 ### Welcome to visit at https://tingfengx.github.io !
 
 <details>
